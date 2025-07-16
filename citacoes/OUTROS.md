@@ -6,7 +6,7 @@
 * **GONG et al., 2022**: 10.1016/j.micromeso.2021.111664
 * **LEAL et al., 2021**: 10.14808/sci.plena.2021.034201 
 * **SULC, 2022**: 10.3303/CET2294080
-* **JAIN; BHATIA, 2023**: 10.4103/jfmpc.jfmpc\_886\_21
+* **JAIN; BHATIA, 2023**: 10.4103/jfmpc.jfmpc_886_21
 * **YADAV et al., 2023**: 10.3389/fmed.2023.1147373
 * **AL-SHAWABKEH, 2023:** 10.1016/j.rineng.2023.101119
 * **ZU, 2016:** 10.1007/S10450-016-9843-4
